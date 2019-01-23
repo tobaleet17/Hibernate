@@ -13,6 +13,10 @@ public class Empresa {
 		this.empleados = empleados;
 		this.direccion = direccion;
 	}
+	public Empresa() {
+		
+		
+	}
 
 	public String getCIF() {
 		return CIF;
